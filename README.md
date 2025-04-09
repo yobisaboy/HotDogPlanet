@@ -1,6 +1,6 @@
 # HotDogPlanet
 - Unity Project: 
-- WebGL Version Available (PC): https://yobisaboy.itch.io/hot-dog-planet?secret=BsIwbcV2ef2imunZU21M0Ldt98
+- WebGL Version Available (PC): https://yobisaboy.itch.io/hot-dog-planet
 
 ## Contact
 - Tel: +1 (647) 637-0831
